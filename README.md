@@ -18,3 +18,7 @@ cd <path-repositorio>
 
 
 ```
+
+## minha empresa
+
+author: minha empresa
